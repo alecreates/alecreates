@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecreates!
-- 👀 I’m interested in software development, web/UI/UX design, and Artificial Intelligence.
-- 🌱 I’m currently learning Python, Javascript and web development.
+- 👀 I’m interested in web/UI/UX design, Machine Learning, AI and Mobile App development
+- 🌱 I’m currently learning Python and Javascript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I speak Spanish, English, and Romanian!
 
